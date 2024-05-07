@@ -1,3 +1,9 @@
+// As per the announcement added to Canvas, credit goes to ChatGPT
+//    -ChatGPT provided the idea to use custom objects
+//    -To be honest, that was about it. Why was this so much easier
+//        than mergesort?
+//    -It also helped with debugging
+
 function quicksort(array) 
 {
     if (array.length < 2)
